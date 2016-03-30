@@ -3,7 +3,7 @@ Analyze your development phase by the commits done to git and their releted Jira
 
 This is an example of an output:
 
-![alt tag](https://raw.githubusercontent.com/oridanus/commits-analysis/master/example-results.png)
+![alt tag](https://raw.githubusercontent.com/oridanus/commits-analysis/4bbff622b672f1d553b27903c9e9700eba5aae94/example-results.png)
 
 ## The input 
 can be one of the 2:
